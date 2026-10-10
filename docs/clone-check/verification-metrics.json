@@ -1,0 +1,382 @@
+{
+  "390": {
+    "overflowCheck": {
+      "hasHorizontalScroll": false,
+      "scrollW": 390,
+      "clientW": 390,
+      "bodyScrollW": 390
+    },
+    "sectionMetrics": [
+      {
+        "id": "",
+        "tag": "header",
+        "height": 96,
+        "width": 390
+      },
+      {
+        "id": "hero",
+        "tag": "section",
+        "height": 856,
+        "width": 390
+      },
+      {
+        "id": "philosophy",
+        "tag": "section",
+        "height": 1274,
+        "width": 390
+      },
+      {
+        "id": "who-we-help",
+        "tag": "section",
+        "height": 2014,
+        "width": 390
+      },
+      {
+        "id": "quote",
+        "tag": "section",
+        "height": 292,
+        "width": 390
+      },
+      {
+        "id": "areas-of-expertise",
+        "tag": "section",
+        "height": 542,
+        "width": 390
+      },
+      {
+        "id": "how-we-work",
+        "tag": "section",
+        "height": 1762,
+        "width": 390
+      },
+      {
+        "id": "statement",
+        "tag": "section",
+        "height": 524,
+        "width": 390
+      },
+      {
+        "id": "specialties",
+        "tag": "section",
+        "height": 1232,
+        "width": 390
+      },
+      {
+        "id": "schedule",
+        "tag": "section",
+        "height": 1052,
+        "width": 390
+      },
+      {
+        "id": "",
+        "tag": "footer",
+        "height": 1184,
+        "width": 390
+      }
+    ]
+  },
+  "768": {
+    "overflowCheck": {
+      "hasHorizontalScroll": false,
+      "scrollW": 768,
+      "clientW": 768,
+      "bodyScrollW": 768
+    },
+    "sectionMetrics": [
+      {
+        "id": "",
+        "tag": "header",
+        "height": 112,
+        "width": 768
+      },
+      {
+        "id": "hero",
+        "tag": "section",
+        "height": 1019,
+        "width": 768
+      },
+      {
+        "id": "philosophy",
+        "tag": "section",
+        "height": 1268,
+        "width": 768
+      },
+      {
+        "id": "who-we-help",
+        "tag": "section",
+        "height": 823,
+        "width": 768
+      },
+      {
+        "id": "quote",
+        "tag": "section",
+        "height": 332,
+        "width": 768
+      },
+      {
+        "id": "areas-of-expertise",
+        "tag": "section",
+        "height": 525,
+        "width": 768
+      },
+      {
+        "id": "how-we-work",
+        "tag": "section",
+        "height": 1566,
+        "width": 768
+      },
+      {
+        "id": "statement",
+        "tag": "section",
+        "height": 756,
+        "width": 768
+      },
+      {
+        "id": "specialties",
+        "tag": "section",
+        "height": 835,
+        "width": 768
+      },
+      {
+        "id": "schedule",
+        "tag": "section",
+        "height": 1122,
+        "width": 768
+      },
+      {
+        "id": "",
+        "tag": "footer",
+        "height": 702,
+        "width": 768
+      }
+    ]
+  },
+  "1024": {
+    "overflowCheck": {
+      "hasHorizontalScroll": false,
+      "scrollW": 1024,
+      "clientW": 1024,
+      "bodyScrollW": 1024
+    },
+    "sectionMetrics": [
+      {
+        "id": "",
+        "tag": "header",
+        "height": 112,
+        "width": 1024
+      },
+      {
+        "id": "hero",
+        "tag": "section",
+        "height": 715,
+        "width": 1024
+      },
+      {
+        "id": "philosophy",
+        "tag": "section",
+        "height": 815,
+        "width": 1024
+      },
+      {
+        "id": "who-we-help",
+        "tag": "section",
+        "height": 910,
+        "width": 1024
+      },
+      {
+        "id": "quote",
+        "tag": "section",
+        "height": 380,
+        "width": 1024
+      },
+      {
+        "id": "areas-of-expertise",
+        "tag": "section",
+        "height": 534,
+        "width": 1024
+      },
+      {
+        "id": "how-we-work",
+        "tag": "section",
+        "height": 937,
+        "width": 1024
+      },
+      {
+        "id": "statement",
+        "tag": "section",
+        "height": 571,
+        "width": 1024
+      },
+      {
+        "id": "specialties",
+        "tag": "section",
+        "height": 878,
+        "width": 1024
+      },
+      {
+        "id": "schedule",
+        "tag": "section",
+        "height": 758,
+        "width": 1024
+      },
+      {
+        "id": "",
+        "tag": "footer",
+        "height": 505,
+        "width": 1024
+      }
+    ]
+  },
+  "1440": {
+    "overflowCheck": {
+      "hasHorizontalScroll": false,
+      "scrollW": 1440,
+      "clientW": 1440,
+      "bodyScrollW": 1440
+    },
+    "sectionMetrics": [
+      {
+        "id": "",
+        "tag": "header",
+        "height": 112,
+        "width": 1440
+      },
+      {
+        "id": "hero",
+        "tag": "section",
+        "height": 686,
+        "width": 1440
+      },
+      {
+        "id": "philosophy",
+        "tag": "section",
+        "height": 860,
+        "width": 1440
+      },
+      {
+        "id": "who-we-help",
+        "tag": "section",
+        "height": 950,
+        "width": 1440
+      },
+      {
+        "id": "quote",
+        "tag": "section",
+        "height": 380,
+        "width": 1440
+      },
+      {
+        "id": "areas-of-expertise",
+        "tag": "section",
+        "height": 516,
+        "width": 1440
+      },
+      {
+        "id": "how-we-work",
+        "tag": "section",
+        "height": 1032,
+        "width": 1440
+      },
+      {
+        "id": "statement",
+        "tag": "section",
+        "height": 674,
+        "width": 1440
+      },
+      {
+        "id": "specialties",
+        "tag": "section",
+        "height": 781,
+        "width": 1440
+      },
+      {
+        "id": "schedule",
+        "tag": "section",
+        "height": 706,
+        "width": 1440
+      },
+      {
+        "id": "",
+        "tag": "footer",
+        "height": 505,
+        "width": 1440
+      }
+    ]
+  },
+  "1920": {
+    "overflowCheck": {
+      "hasHorizontalScroll": false,
+      "scrollW": 1920,
+      "clientW": 1920,
+      "bodyScrollW": 1920
+    },
+    "sectionMetrics": [
+      {
+        "id": "",
+        "tag": "header",
+        "height": 112,
+        "width": 1920
+      },
+      {
+        "id": "hero",
+        "tag": "section",
+        "height": 686,
+        "width": 1920
+      },
+      {
+        "id": "philosophy",
+        "tag": "section",
+        "height": 860,
+        "width": 1920
+      },
+      {
+        "id": "who-we-help",
+        "tag": "section",
+        "height": 950,
+        "width": 1920
+      },
+      {
+        "id": "quote",
+        "tag": "section",
+        "height": 380,
+        "width": 1920
+      },
+      {
+        "id": "areas-of-expertise",
+        "tag": "section",
+        "height": 516,
+        "width": 1920
+      },
+      {
+        "id": "how-we-work",
+        "tag": "section",
+        "height": 1032,
+        "width": 1920
+      },
+      {
+        "id": "statement",
+        "tag": "section",
+        "height": 674,
+        "width": 1920
+      },
+      {
+        "id": "specialties",
+        "tag": "section",
+        "height": 781,
+        "width": 1920
+      },
+      {
+        "id": "schedule",
+        "tag": "section",
+        "height": 706,
+        "width": 1920
+      },
+      {
+        "id": "",
+        "tag": "footer",
+        "height": 505,
+        "width": 1920
+      }
+    ]
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "390": {
+    "burgerDisplay": "flex",
+    "navDisplay": "none",
+    "sections": [
+      {
+        "idx": 1,
+        "heading": "Rebuild your foundation on solid ground ",
+        "height": 1016,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": [
+          {
+            "w": 278,
+            "h": 304,
+            "aspect": "0.91"
+          },
+          {
+            "w": 57,
+            "h": 199,
+            "aspect": "0.29"
+          }
+        ]
+      },
+      {
+        "idx": 2,
+        "heading": "You’re holding onto hope that life can b",
+        "height": 1206,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": [
+          {
+            "w": 343,
+            "h": 234,
+            "aspect": "1.47"
+          }
+        ]
+      },
+      {
+        "idx": 3,
+        "heading": " Who we  help",
+        "height": 2033,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": [
+          {
+            "w": 343,
+            "h": 304,
+            "aspect": "1.13"
+          },
+          {
+            "w": 343,
+            "h": 304,
+            "aspect": "1.13"
+          },
+          {
+            "w": 343,
+            "h": 304,
+            "aspect": "1.13"
+          }
+        ]
+      },
+      {
+        "idx": 4,
+        "heading": "You deserve a place where your story is ",
+        "height": 594,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": [
+          {
+            "w": 390,
+            "h": 594,
+            "aspect": "0.66"
+          }
+        ]
+      },
+      {
+        "idx": 5,
+        "heading": "Our areas of expertise",
+        "height": 1078,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": []
+      },
+      {
+        "idx": 6,
+        "heading": "We’re here to make a difference.",
+        "height": 1477,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": [
+          {
+            "w": 343,
+            "h": 269,
+            "aspect": "1.28"
+          }
+        ]
+      },
+      {
+        "idx": 7,
+        "heading": "Honoring where you’ve been & helping sha",
+        "height": 594,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": [
+          {
+            "w": 367,
+            "h": 304,
+            "aspect": "1.21"
+          }
+        ]
+      },
+      {
+        "idx": 8,
+        "heading": "Our  specialties include…",
+        "height": 1652,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": []
+      },
+      {
+        "idx": 9,
+        "heading": "Find a therapist who is the right fit fo",
+        "height": 1286,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": [
+          {
+            "w": 189,
+            "h": 199,
+            "aspect": "0.95"
+          },
+          {
+            "w": 322,
+            "h": 269,
+            "aspect": "1.20"
+          }
+        ]
+      },
+      {
+        "idx": 10,
+        "heading": "",
+        "height": 1127,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": [
+          {
+            "w": 322,
+            "h": 94,
+            "aspect": "3.43"
+          }
+        ]
+      },
+      {
+        "idx": 11,
+        "heading": "",
+        "height": 68,
+        "gridDisplay": "grid",
+        "gridCols": 10,
+        "images": []
+      }
+    ]
+  },
+  "768": {
+    "burgerDisplay": "flex",
+    "navDisplay": "none",
+    "sections": [
+      {
+        "idx": 1,
+        "heading": "Rebuild your foundation on solid ground ",
+        "height": 776,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 261,
+            "h": 531,
+            "aspect": "0.49"
+          },
+          {
+            "w": 57,
+            "h": 335,
+            "aspect": "0.17"
+          }
+        ]
+      },
+      {
+        "idx": 2,
+        "heading": "You’re holding onto hope that life can b",
+        "height": 912,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 226,
+            "h": 760,
+            "aspect": "0.30"
+          }
+        ]
+      },
+      {
+        "idx": 3,
+        "heading": " Who we  help",
+        "height": 882,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 187,
+            "h": 273,
+            "aspect": "0.68"
+          },
+          {
+            "w": 187,
+            "h": 273,
+            "aspect": "0.68"
+          },
+          {
+            "w": 187,
+            "h": 273,
+            "aspect": "0.68"
+          }
+        ]
+      },
+      {
+        "idx": 4,
+        "heading": "You deserve a place where your story is ",
+        "height": 594,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 768,
+            "h": 594,
+            "aspect": "1.29"
+          }
+        ]
+      },
+      {
+        "idx": 5,
+        "heading": "Our areas of expertise",
+        "height": 720,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": []
+      },
+      {
+        "idx": 6,
+        "heading": "We’re here to make a difference.",
+        "height": 962,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 167,
+            "h": 807,
+            "aspect": "0.21"
+          }
+        ]
+      },
+      {
+        "idx": 7,
+        "heading": "Honoring where you’ve been & helping sha",
+        "height": 594,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 408,
+            "h": 375,
+            "aspect": "1.09"
+          }
+        ]
+      },
+      {
+        "idx": 8,
+        "heading": "Our  specialties include…",
+        "height": 1135,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": []
+      },
+      {
+        "idx": 9,
+        "heading": "Find a therapist who is the right fit fo",
+        "height": 863,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 86,
+            "h": 641,
+            "aspect": "0.13"
+          },
+          {
+            "w": 261,
+            "h": 719,
+            "aspect": "0.36"
+          }
+        ]
+      },
+      {
+        "idx": 10,
+        "heading": "",
+        "height": 468,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 194,
+            "h": 57,
+            "aspect": "3.40"
+          }
+        ]
+      },
+      {
+        "idx": 11,
+        "heading": "",
+        "height": 45,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": []
+      }
+    ]
+  },
+  "1440": {
+    "burgerDisplay": "none",
+    "navDisplay": "block",
+    "sections": [
+      {
+        "idx": 1,
+        "heading": "Rebuild your foundation on solid ground ",
+        "height": 804,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 497,
+            "h": 572,
+            "aspect": "0.87"
+          },
+          {
+            "w": 115,
+            "h": 378,
+            "aspect": "0.30"
+          }
+        ]
+      },
+      {
+        "idx": 2,
+        "heading": "You’re holding onto hope that life can b",
+        "height": 867,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 436,
+            "h": 626,
+            "aspect": "0.70"
+          }
+        ]
+      },
+      {
+        "idx": 3,
+        "heading": " Who we  help",
+        "height": 1020,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 364,
+            "h": 416,
+            "aspect": "0.88"
+          },
+          {
+            "w": 364,
+            "h": 416,
+            "aspect": "0.88"
+          },
+          {
+            "w": 364,
+            "h": 416,
+            "aspect": "0.88"
+          }
+        ]
+      },
+      {
+        "idx": 4,
+        "heading": "You deserve a place where your story is ",
+        "height": 594,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 1440,
+            "h": 594,
+            "aspect": "2.42"
+          }
+        ]
+      },
+      {
+        "idx": 5,
+        "heading": "Our areas of expertise",
+        "height": 720,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": []
+      },
+      {
+        "idx": 6,
+        "heading": "We’re here to make a difference.",
+        "height": 922,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 326,
+            "h": 688,
+            "aspect": "0.47"
+          }
+        ]
+      },
+      {
+        "idx": 7,
+        "heading": "Honoring where you’ve been & helping sha",
+        "height": 723,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 769,
+            "h": 533,
+            "aspect": "1.44"
+          }
+        ]
+      },
+      {
+        "idx": 8,
+        "heading": "Our  specialties include…",
+        "height": 960,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": []
+      },
+      {
+        "idx": 9,
+        "heading": "Find a therapist who is the right fit fo",
+        "height": 835,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 170,
+            "h": 489,
+            "aspect": "0.35"
+          },
+          {
+            "w": 497,
+            "h": 606,
+            "aspect": "0.82"
+          }
+        ]
+      },
+      {
+        "idx": 10,
+        "heading": "",
+        "height": 493,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": [
+          {
+            "w": 370,
+            "h": 108,
+            "aspect": "3.43"
+          }
+        ]
+      },
+      {
+        "idx": 11,
+        "heading": "",
+        "height": 45,
+        "gridDisplay": "grid",
+        "gridCols": 26,
+        "images": []
+      }
+    ]
+  }
+}

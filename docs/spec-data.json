@@ -1,0 +1,1767 @@
+{
+  "title": "Counseling in Newbury Park, CA | Conejo Valley Family Counseling",
+  "headerDetails": {
+    "position": "absolute",
+    "height": 115,
+    "bg": "rgba(0, 0, 0, 0)",
+    "navLinks": [
+      {
+        "text": "Skip to Content",
+        "href": "#page",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/",
+        "fontFamily": "Muli",
+        "fontSize": "0px",
+        "fontWeight": "300",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "ABOUT",
+        "href": "/therapists-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Jennifer Anderson, LMFT",
+        "href": "/jennifer-anderson",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Candace Bletscher, AMFT",
+        "href": "/candace-bletscher",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Heather Williams-Baumgart, AMFT",
+        "href": "/heather-williams-baumgart",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Samantha Johnson, AMFT",
+        "href": "/samantha-johnson",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Autumn Bodily, AMFT",
+        "href": "/autumn-bodily",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Rosa Gomez, AMFT",
+        "href": "/rosa-gomez",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Chad Flores, AMFT",
+        "href": "/chad-flores",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Simran Sidhu, AMFT",
+        "href": "/simran-sidhu",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Jessica Jauregui, MA, AMFT",
+        "href": "/jessica-jauregui",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Dissociation",
+        "href": "/dissociative-identity-disorder-therapist-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Trauma",
+        "href": "/trauma-counseling-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Special Needs Parenting",
+        "href": "/counseling-special-needs-parents-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Couples",
+        "href": "/couples-therapy",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Children & Teens",
+        "href": "/children-and-teens",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Anxiety & Depression",
+        "href": "/anxiety-depression",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Adoption",
+        "href": "/adoption-therapy-ventura-county-ca",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "EMDR",
+        "href": "/emdr-therapy-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Brainspotting",
+        "href": "/brainspotting",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Somatic Therapy",
+        "href": "/somatic-therapy",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Parts Work Therapy",
+        "href": "/parts-work-therapy",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "FAQS",
+        "href": "/faqs",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "/contact",
+        "fontFamily": "Muli",
+        "fontSize": "12.408px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/",
+        "fontFamily": "Muli",
+        "fontSize": "0px",
+        "fontWeight": "300",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "About",
+        "href": "/therapists-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Jennifer Anderson, LMFT",
+        "href": "/jennifer-anderson",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Candace Bletscher, AMFT",
+        "href": "/candace-bletscher",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Heather Williams-Baumgart, AMFT",
+        "href": "/heather-williams-baumgart",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Samantha Johnson, AMFT",
+        "href": "/samantha-johnson",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Autumn Bodily, AMFT",
+        "href": "/autumn-bodily",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Rosa Gomez, AMFT",
+        "href": "/rosa-gomez",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Chad Flores, AMFT",
+        "href": "/chad-flores",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Simran Sidhu, AMFT",
+        "href": "/simran-sidhu",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Jessica Jauregui, MA, AMFT",
+        "href": "/jessica-jauregui",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Dissociation",
+        "href": "/dissociative-identity-disorder-therapist-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Trauma",
+        "href": "/trauma-counseling-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Special Needs Parenting",
+        "href": "/counseling-special-needs-parents-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Couples",
+        "href": "/couples-therapy",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Children & Teens",
+        "href": "/children-and-teens",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Anxiety & Depression",
+        "href": "/anxiety-depression",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Adoption",
+        "href": "/adoption-therapy-ventura-county-ca",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "EMDR",
+        "href": "/emdr-therapy-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Brainspotting",
+        "href": "/brainspotting",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Somatic Therapy",
+        "href": "/somatic-therapy",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Parts Work Therapy",
+        "href": "/parts-work-therapy",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "FAQs",
+        "href": "/faqs",
+        "fontFamily": "Muli",
+        "fontSize": "13.272px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "Contact",
+        "href": "/contact",
+        "fontFamily": "Muli",
+        "fontSize": "12.408px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/therapists-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/our-team",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/specialties",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/methods",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/faqs",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/contact",
+        "fontFamily": "Muli",
+        "fontSize": "12.408px",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)"
+      },
+      {
+        "text": "",
+        "href": "/",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/jennifer-anderson",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/candace-bletscher",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/heather-williams-baumgart",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/samantha-johnson",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/autumn-bodily",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/rosa-gomez",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/chad-flores",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/simran-sidhu",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/jessica-jauregui",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/dissociative-identity-disorder-therapist-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/trauma-counseling-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/counseling-special-needs-parents-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/couples-therapy",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/children-and-teens",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/anxiety-depression",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/adoption-therapy-ventura-county-ca",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/emdr-therapy-newbury-park",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/brainspotting",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/somatic-therapy",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      },
+      {
+        "text": "",
+        "href": "/parts-work-therapy",
+        "fontFamily": "Muli",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "color": "rgb(43, 43, 43)"
+      }
+    ]
+  },
+  "hasMobileTrigger": true,
+  "colors": {
+    "text": [
+      "rgb(0, 0, 0)",
+      "rgb(43, 43, 43)",
+      "rgb(134, 179, 179)",
+      "rgb(255, 255, 255)",
+      "rgb(246, 244, 238)",
+      "rgb(128, 128, 128)",
+      "rgb(227, 217, 202)"
+    ],
+    "backgrounds": [
+      "rgb(255, 255, 255)",
+      "rgb(43, 43, 43)",
+      "rgb(246, 244, 238)",
+      "rgba(227, 217, 202, 0.07)",
+      "rgba(227, 217, 202, 0.14)",
+      "rgba(227, 217, 202, 0.18)",
+      "rgba(255, 255, 255, 0.11)",
+      "rgba(255, 255, 255, 0.09)",
+      "rgba(255, 255, 255, 0.1)",
+      "rgba(227, 217, 202, 0.5)",
+      "rgb(227, 217, 202)",
+      "rgba(246, 244, 238, 0.33)",
+      "rgba(43, 43, 43, 0.5)",
+      "rgba(246, 244, 238, 0)",
+      "rgb(134, 179, 179)",
+      "rgba(134, 179, 179, 0)"
+    ],
+    "borders": [
+      "rgb(0, 0, 0)",
+      "rgb(43, 43, 43)",
+      "rgb(134, 179, 179)",
+      "rgb(255, 255, 255)",
+      "rgb(227, 217, 202)",
+      "rgb(246, 244, 238)",
+      "rgb(128, 128, 128)"
+    ]
+  },
+  "sections": [
+    {
+      "index": 0,
+      "tag": "header",
+      "id": "header",
+      "className": "\n      \n        \n      \n      header theme-col--primary\n    ",
+      "rect": {
+        "width": 1440,
+        "height": 115.296875,
+        "top": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7116bf54-a0e1-4128-81d8-24fd9960c7ed/Conejo+Valley+Counseling+Logo.png?format=1500w",
+          "alt": "Conejo Valley Family Counseling",
+          "width": 1500,
+          "height": 438,
+          "displayWidth": 257,
+          "displayHeight": 75,
+          "objectFit": "fill"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7116bf54-a0e1-4128-81d8-24fd9960c7ed/Conejo+Valley+Counseling+Logo.png?format=1500w",
+          "alt": "Conejo Valley Family Counseling",
+          "width": 1500,
+          "height": 438,
+          "displayWidth": 0,
+          "displayHeight": 0,
+          "objectFit": "fill"
+        }
+      ],
+      "rawTextPreview": "Skip to Content ABOUT OUR TEAM SPECIALTIES METHODS FAQS CONTACT"
+    },
+    {
+      "index": 1,
+      "tag": "div",
+      "id": "",
+      "className": "header-menu header-menu--folder-list\n      light-bold\n      \n      \n      \n      \n      ",
+      "rect": {
+        "width": 1440,
+        "height": 900,
+        "top": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "115.297px 0px 0px 0px",
+      "headings": [],
+      "images": [],
+      "rawTextPreview": ""
+    },
+    {
+      "index": 2,
+      "tag": "article",
+      "id": "page-regions",
+      "className": "page-regions",
+      "rect": {
+        "width": 1440,
+        "height": 7444.828125,
+        "top": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Rebuild your foundation on solid ground and finally begin to  thrive.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "59.928px",
+          "fontWeight": "300",
+          "lineHeight": "75.1737px",
+          "letterSpacing": "-0.59928px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "You’re holding onto hope that life can be better than it is right now.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "Who we  help",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Adults",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Couples",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Children & Teens",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "You deserve a place where your story is heard, valued, and understood. Nothing will be too heavy for us to carry together.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "tag": "h3",
+          "text": "Our areas of expertise",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "39.192px",
+          "fontWeight": "300",
+          "lineHeight": "51.7962px",
+          "letterSpacing": "-0.39192px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "We’re here to make a difference.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(0, 0, 0)"
+        },
+        {
+          "tag": "h2",
+          "text": "Honoring where you’ve been & helping shape where you’re headed.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h3",
+          "text": "Our  specialties include…",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "39.192px",
+          "fontWeight": "300",
+          "lineHeight": "51.7962px",
+          "letterSpacing": "-0.39192px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Trauma",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Dissociation",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "EMDR",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Special Needs Parenting",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "Find a therapist who is the right fit for  you.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/80513bd1-30ee-4a2d-aaf6-782d9be095ce/Jennifer+A+-+Images+%2866%29.jpg",
+          "alt": "family therapy",
+          "width": 1310,
+          "height": 1196,
+          "displayWidth": 497,
+          "displayHeight": 572,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/3643a7ac-ff62-4927-b96e-9e65ecff0521/Jennifer+A+-+Images+%2867%29.jpg",
+          "alt": "child therapy",
+          "width": 1310,
+          "height": 1196,
+          "displayWidth": 115,
+          "displayHeight": 378,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7a40691c-70a5-4307-b9ae-974592087a8f/Jennifer+A+-+Images+%283%29.jpg",
+          "alt": "Sandy beach with gentle ocean waves and a cloudy sky.",
+          "width": 1059,
+          "height": 1566,
+          "displayWidth": 436,
+          "displayHeight": 626,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/066f60e6-1354-4d47-a586-ab3f2f2ba612/Jennifer+A+-+Images+%288%29.jpg",
+          "alt": "Two people sitting on a log at the beach, facing a lake with mountains in the background.",
+          "width": 364,
+          "height": 537,
+          "displayWidth": 364,
+          "displayHeight": 416,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d0157712-388c-4800-aada-c78db97ee966/Jennifer+A+-+Images+%289%29.jpg",
+          "alt": "A couple embracing on the beach, with both wearing casual summer clothing and smiling at each other. The ocean is in the background.",
+          "width": 364,
+          "height": 537,
+          "displayWidth": 364,
+          "displayHeight": 416,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d5d62bf4-34a7-4bf4-bf00-e1169863ace7/Jennifer+A+-+Images+%2810%29.jpg",
+          "alt": "A boy carrying a girl on a beach with waves in the background.",
+          "width": 364,
+          "height": 554,
+          "displayWidth": 364,
+          "displayHeight": 416,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/27b4f80c-ca73-4d1f-824e-ec29a2211142/Jennifer+A+-+Images+%282%29.png",
+          "alt": "",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 1440,
+          "displayHeight": 594,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/389808ad-7273-4e03-a32b-c172aa735f12/Jennifer+A+-+Images+%286%29.jpg",
+          "alt": "A woman and a child in white dresses dancing on a sandy beach with tall grasses and a distant building in the background during sunset.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 326,
+          "displayHeight": 688,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/6f1501bf-74a5-4c57-a957-8ce4c5876848/Jennifer+A+-+Images+%285%29.jpg",
+          "alt": "Family of four standing on a beach, holding hands, facing the ocean at sunset.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 769,
+          "displayHeight": 533,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/1b9495e0-ce39-4826-9df9-e24de99da82f/Jennifer+A+-+Images+%2812%29.jpg",
+          "alt": "A person picking up seashells on a sandy beach.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 170,
+          "displayHeight": 489,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7557312a-044d-4489-a9d1-6f43ee9888b1/Jennifer+A+-+Images+%2811%29.jpg",
+          "alt": "A person in a striped dress pointing at shells on the sandy beach, with a child in blue shorts standing barefoot nearby.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 497,
+          "displayHeight": 606,
+          "objectFit": "cover"
+        }
+      ],
+      "rawTextPreview": "ONLINE & IN-PERSON COUNSELING IN NEWBURY PARK & ACROSS CA Rebuild your foundation on solid ground and finally begin to thrive. Specialized therapy for adults, couples, teens, and children to reflect, heal, and grow. BOOK AN APPOINTMENT You’re holding onto hope that life can be better than it is"
+    },
+    {
+      "index": 3,
+      "tag": "section",
+      "id": "",
+      "className": "region",
+      "rect": {
+        "width": 1440,
+        "height": 7444.828125,
+        "top": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Rebuild your foundation on solid ground and finally begin to  thrive.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "59.928px",
+          "fontWeight": "300",
+          "lineHeight": "75.1737px",
+          "letterSpacing": "-0.59928px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "You’re holding onto hope that life can be better than it is right now.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "Who we  help",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Adults",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Couples",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Children & Teens",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "You deserve a place where your story is heard, valued, and understood. Nothing will be too heavy for us to carry together.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "tag": "h3",
+          "text": "Our areas of expertise",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "39.192px",
+          "fontWeight": "300",
+          "lineHeight": "51.7962px",
+          "letterSpacing": "-0.39192px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "We’re here to make a difference.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(0, 0, 0)"
+        },
+        {
+          "tag": "h2",
+          "text": "Honoring where you’ve been & helping shape where you’re headed.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h3",
+          "text": "Our  specialties include…",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "39.192px",
+          "fontWeight": "300",
+          "lineHeight": "51.7962px",
+          "letterSpacing": "-0.39192px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Trauma",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Dissociation",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "EMDR",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Special Needs Parenting",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h2",
+          "text": "Find a therapist who is the right fit for  you.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/80513bd1-30ee-4a2d-aaf6-782d9be095ce/Jennifer+A+-+Images+%2866%29.jpg",
+          "alt": "family therapy",
+          "width": 1310,
+          "height": 1196,
+          "displayWidth": 497,
+          "displayHeight": 572,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/3643a7ac-ff62-4927-b96e-9e65ecff0521/Jennifer+A+-+Images+%2867%29.jpg",
+          "alt": "child therapy",
+          "width": 1310,
+          "height": 1196,
+          "displayWidth": 115,
+          "displayHeight": 378,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7a40691c-70a5-4307-b9ae-974592087a8f/Jennifer+A+-+Images+%283%29.jpg",
+          "alt": "Sandy beach with gentle ocean waves and a cloudy sky.",
+          "width": 1059,
+          "height": 1566,
+          "displayWidth": 436,
+          "displayHeight": 626,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/066f60e6-1354-4d47-a586-ab3f2f2ba612/Jennifer+A+-+Images+%288%29.jpg",
+          "alt": "Two people sitting on a log at the beach, facing a lake with mountains in the background.",
+          "width": 364,
+          "height": 537,
+          "displayWidth": 364,
+          "displayHeight": 416,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d0157712-388c-4800-aada-c78db97ee966/Jennifer+A+-+Images+%289%29.jpg",
+          "alt": "A couple embracing on the beach, with both wearing casual summer clothing and smiling at each other. The ocean is in the background.",
+          "width": 364,
+          "height": 537,
+          "displayWidth": 364,
+          "displayHeight": 416,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d5d62bf4-34a7-4bf4-bf00-e1169863ace7/Jennifer+A+-+Images+%2810%29.jpg",
+          "alt": "A boy carrying a girl on a beach with waves in the background.",
+          "width": 364,
+          "height": 554,
+          "displayWidth": 364,
+          "displayHeight": 416,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/27b4f80c-ca73-4d1f-824e-ec29a2211142/Jennifer+A+-+Images+%282%29.png",
+          "alt": "",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 1440,
+          "displayHeight": 594,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/389808ad-7273-4e03-a32b-c172aa735f12/Jennifer+A+-+Images+%286%29.jpg",
+          "alt": "A woman and a child in white dresses dancing on a sandy beach with tall grasses and a distant building in the background during sunset.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 326,
+          "displayHeight": 688,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/6f1501bf-74a5-4c57-a957-8ce4c5876848/Jennifer+A+-+Images+%285%29.jpg",
+          "alt": "Family of four standing on a beach, holding hands, facing the ocean at sunset.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 769,
+          "displayHeight": 533,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/1b9495e0-ce39-4826-9df9-e24de99da82f/Jennifer+A+-+Images+%2812%29.jpg",
+          "alt": "A person picking up seashells on a sandy beach.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 170,
+          "displayHeight": 489,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7557312a-044d-4489-a9d1-6f43ee9888b1/Jennifer+A+-+Images+%2811%29.jpg",
+          "alt": "A person in a striped dress pointing at shells on the sandy beach, with a child in blue shorts standing barefoot nearby.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 497,
+          "displayHeight": 606,
+          "objectFit": "cover"
+        }
+      ],
+      "rawTextPreview": "ONLINE & IN-PERSON COUNSELING IN NEWBURY PARK & ACROSS CA Rebuild your foundation on solid ground and finally begin to thrive. Specialized therapy for adults, couples, teens, and children to reflect, heal, and grow. BOOK AN APPOINTMENT You’re holding onto hope that life can be better than it is"
+    },
+    {
+      "index": 4,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      \n        section-height--custom\n      \n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    light",
+      "rect": {
+        "width": 1440,
+        "height": 803.765625,
+        "top": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "115.297px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Rebuild your foundation on solid ground and finally begin to  thrive.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "59.928px",
+          "fontWeight": "300",
+          "lineHeight": "75.1737px",
+          "letterSpacing": "-0.59928px",
+          "color": "rgb(43, 43, 43)"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/80513bd1-30ee-4a2d-aaf6-782d9be095ce/Jennifer+A+-+Images+%2866%29.jpg",
+          "alt": "family therapy",
+          "width": 1310,
+          "height": 1196,
+          "displayWidth": 497,
+          "displayHeight": 572,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/3643a7ac-ff62-4927-b96e-9e65ecff0521/Jennifer+A+-+Images+%2867%29.jpg",
+          "alt": "child therapy",
+          "width": 1310,
+          "height": 1196,
+          "displayWidth": 115,
+          "displayHeight": 378,
+          "objectFit": "cover"
+        }
+      ],
+      "rawTextPreview": "ONLINE & IN-PERSON COUNSELING IN NEWBURY PARK & ACROSS CA Rebuild your foundation on solid ground and finally begin to thrive. Specialized therapy for adults, couples, teens, and children to reflect, heal, and grow. BOOK AN APPOINTMENT"
+    },
+    {
+      "index": 5,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      \n      \n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    light",
+      "rect": {
+        "width": 1440,
+        "height": 866.84375,
+        "top": 803.765625
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "You’re holding onto hope that life can be better than it is right now.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7a40691c-70a5-4307-b9ae-974592087a8f/Jennifer+A+-+Images+%283%29.jpg",
+          "alt": "Sandy beach with gentle ocean waves and a cloudy sky.",
+          "width": 1059,
+          "height": 1566,
+          "displayWidth": 436,
+          "displayHeight": 626,
+          "objectFit": "cover"
+        }
+      ],
+      "rawTextPreview": "You’re holding onto hope that life can be better than it is right now. AT CONEJO VALLEY FAMILY COUNSELING WE WANT TO MAKE THAT HOPE A REALITY. Whether you're an adult seeking personal growth, looking to work through your trauma, a couple working on your relationship, or a parent looking for supp"
+    },
+    {
+      "index": 6,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      section-height--medium\n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    white",
+      "rect": {
+        "width": 1440,
+        "height": 1020.484375,
+        "top": 1670.609375
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Who we  help",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Adults",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Couples",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Children & Teens",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/066f60e6-1354-4d47-a586-ab3f2f2ba612/Jennifer+A+-+Images+%288%29.jpg",
+          "alt": "Two people sitting on a log at the beach, facing a lake with mountains in the background.",
+          "width": 364,
+          "height": 537,
+          "displayWidth": 364,
+          "displayHeight": 416,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d0157712-388c-4800-aada-c78db97ee966/Jennifer+A+-+Images+%289%29.jpg",
+          "alt": "A couple embracing on the beach, with both wearing casual summer clothing and smiling at each other. The ocean is in the background.",
+          "width": 364,
+          "height": 537,
+          "displayWidth": 364,
+          "displayHeight": 416,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d5d62bf4-34a7-4bf4-bf00-e1169863ace7/Jennifer+A+-+Images+%2810%29.jpg",
+          "alt": "A boy carrying a girl on a beach with waves in the background.",
+          "width": 364,
+          "height": 554,
+          "displayWidth": 364,
+          "displayHeight": 416,
+          "objectFit": "cover"
+        }
+      ],
+      "rawTextPreview": " Who we help Adults Feeling stuck or overwhelmed? We help adults find clarity, build resilience, and move forward with confidence by addressing the root causes of anxiety, stress, and emotional pain. Couples Relationships require effort, and we’re here to help you strengthen yours. We guide coup"
+    },
+    {
+      "index": 7,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      section-height--medium\n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n       has-background\n    \n    \n    black",
+      "rect": {
+        "width": 1440,
+        "height": 594,
+        "top": 2691.09375
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "You deserve a place where your story is heard, valued, and understood. Nothing will be too heavy for us to carry together.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(255, 255, 255)"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/27b4f80c-ca73-4d1f-824e-ec29a2211142/Jennifer+A+-+Images+%282%29.png",
+          "alt": "",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 1440,
+          "displayHeight": 594,
+          "objectFit": "cover"
+        }
+      ],
+      "rawTextPreview": "You deserve a place where your story is heard, valued, and understood. Nothing will be too heavy for us to carry together."
+    },
+    {
+      "index": 8,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      \n      \n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    white",
+      "rect": {
+        "width": 1440,
+        "height": 720,
+        "top": 3285.09375
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Our areas of expertise",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "39.192px",
+          "fontWeight": "300",
+          "lineHeight": "51.7962px",
+          "letterSpacing": "-0.39192px",
+          "color": "rgb(43, 43, 43)"
+        }
+      ],
+      "images": [],
+      "rawTextPreview": "Our areas of expertise DISSOCIATION TRAUMA FAMILY CONFLICT SPECIAL NEEDS PARENTING DEPRESSION MARRIAGE ANXIETY RELATIONSHIPS CHILDREN TEENS INTIMACY & CONNECTION …AND MORE."
+    },
+    {
+      "index": 9,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      \n        section-height--custom\n      \n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    bright",
+      "rect": {
+        "width": 1440,
+        "height": 921.625,
+        "top": 4005.09375
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We’re here to make a difference.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(0, 0, 0)"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/389808ad-7273-4e03-a32b-c172aa735f12/Jennifer+A+-+Images+%286%29.jpg",
+          "alt": "A woman and a child in white dresses dancing on a sandy beach with tall grasses and a distant building in the background during sunset.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 326,
+          "displayHeight": 688,
+          "objectFit": "cover"
+        }
+      ],
+      "rawTextPreview": "HOW WE WORK We’re here to make a difference. THE CLIENTS WE WORK WITH ARE BALANCING SO MANY THINGS AT ONCE, IT’S OFTEN HARD FOR THEM TO PUT THEMSELVES FIRST. Here, your needs are always top priority. Our team takes the time to deeply listen to our clients in order to truly understand their story"
+    },
+    {
+      "index": 10,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      section-height--medium\n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    white",
+      "rect": {
+        "width": 1440,
+        "height": 723.09375,
+        "top": 4926.71875
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Honoring where you’ve been & helping shape where you’re headed.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/6f1501bf-74a5-4c57-a957-8ce4c5876848/Jennifer+A+-+Images+%285%29.jpg",
+          "alt": "Family of four standing on a beach, holding hands, facing the ocean at sunset.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 769,
+          "displayHeight": 533,
+          "objectFit": "cover"
+        }
+      ],
+      "rawTextPreview": "Honoring where you’ve been & helping shape where you’re headed. "
+    },
+    {
+      "index": 11,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      \n        section-height--custom\n      \n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    white",
+      "rect": {
+        "width": 1440,
+        "height": 960.484375,
+        "top": 5649.8125
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Our  specialties include…",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "39.192px",
+          "fontWeight": "300",
+          "lineHeight": "51.7962px",
+          "letterSpacing": "-0.39192px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Trauma",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Dissociation",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "EMDR",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        },
+        {
+          "tag": "h4",
+          "text": "Special Needs Parenting",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "27.096px",
+          "fontWeight": "300",
+          "lineHeight": "36.8722px",
+          "letterSpacing": "-0.27096px",
+          "color": "rgb(43, 43, 43)"
+        }
+      ],
+      "images": [],
+      "rawTextPreview": "Our specialties include… Trauma We don’t always know when and how we’ve experienced trauma. In therapy, we’ll work together to help you process your past, understand what’s causing you to stay “stuck,” and regain a sense of safety, control, and hope. You don’t have to carry your burdens alone. LE"
+    },
+    {
+      "index": 12,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      section-height--medium\n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    light",
+      "rect": {
+        "width": 1440,
+        "height": 834.53125,
+        "top": 6610.296875
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Find a therapist who is the right fit for  you.",
+          "fontFamily": "beaufort-pro, serif",
+          "fontSize": "47.832px",
+          "fontWeight": "300",
+          "lineHeight": "61.8755px",
+          "letterSpacing": "-0.47832px",
+          "color": "rgb(43, 43, 43)"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/1b9495e0-ce39-4826-9df9-e24de99da82f/Jennifer+A+-+Images+%2812%29.jpg",
+          "alt": "A person picking up seashells on a sandy beach.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 170,
+          "displayHeight": 489,
+          "objectFit": "cover"
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7557312a-044d-4489-a9d1-6f43ee9888b1/Jennifer+A+-+Images+%2811%29.jpg",
+          "alt": "A person in a striped dress pointing at shells on the sandy beach, with a child in blue shorts standing barefoot nearby.",
+          "width": 0,
+          "height": 0,
+          "displayWidth": 497,
+          "displayHeight": 606,
+          "objectFit": "cover"
+        }
+      ],
+      "rawTextPreview": "SCHEDULE AN APPOINTMENT Find a therapist who is the right fit for you. Coming to therapy is a courageous decision, and connecting with the right kind of therapist makes all the difference. We understand that your journey is personal, and we're here to support you with care and understanding ever"
+    },
+    {
+      "index": 13,
+      "tag": "footer",
+      "id": "footer-sections",
+      "className": "sections",
+      "rect": {
+        "width": 1440,
+        "height": 538.15625,
+        "top": 7444.828125
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7116bf54-a0e1-4128-81d8-24fd9960c7ed/Conejo+Valley+Counseling+Logo.png",
+          "alt": "",
+          "width": 369,
+          "height": 108,
+          "displayWidth": 370,
+          "displayHeight": 108,
+          "objectFit": "contain"
+        }
+      ],
+      "rawTextPreview": "We want to make getting started simple. You’re welcome to come into our office in Newbury Park or schedule virtual appointments from anywhere in CA—whatever works best for you. NAVIGATE Home About FAQs Contact CONTACT 925 Broadbeck Dr Suites 200 and 225 Newbury Park, CA 91320 info@conejovalle"
+    },
+    {
+      "index": 14,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      \n      \n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    white",
+      "rect": {
+        "width": 1440,
+        "height": 493.15625,
+        "top": 7444.828125
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [],
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7116bf54-a0e1-4128-81d8-24fd9960c7ed/Conejo+Valley+Counseling+Logo.png",
+          "alt": "",
+          "width": 369,
+          "height": 108,
+          "displayWidth": 370,
+          "displayHeight": 108,
+          "objectFit": "contain"
+        }
+      ],
+      "rawTextPreview": "We want to make getting started simple. You’re welcome to come into our office in Newbury Park or schedule virtual appointments from anywhere in CA—whatever works best for you. NAVIGATE Home About FAQs Contact CONTACT 925 Broadbeck Dr Suites 200 and 225 Newbury Park, CA 91320 info@conejovalle"
+    },
+    {
+      "index": 15,
+      "tag": "section",
+      "id": "",
+      "className": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n      \n        section-height--custom\n      \n    \n    \n      content-width--wide\n    \n    horizontal-alignment--center\n    vertical-alignment--middle\n    \n      \n    \n    \n    dark",
+      "rect": {
+        "width": 1440,
+        "height": 45,
+        "top": 7937.984375
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "padding": "0px 0px 0px 0px",
+      "headings": [],
+      "images": [],
+      "rawTextPreview": "Terms | Privacy Policy | Disclaimer | Website by Walker Strategy Co."
+    }
+  ]
+}

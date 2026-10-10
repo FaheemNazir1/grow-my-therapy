@@ -1,0 +1,32 @@
+import React from "react";
+
+export interface ContainerProps extends React.HTMLAttributes<HTMLDivElement> {
+  children: React.ReactNode;
+  className?: string;
+  size?: "default" | "narrow" | "wide" | "full";
+}
+
+const sizeClasses = {
+  narrow: "max-w-4xl",
+  default: "max-w-7xl",
+  wide: "max-w-[1440px]",
+  full: "max-w-full",
+};
+
+export function Container({
+  children,
+  className = "",
+  size = "default",
+  ...props
+}: ContainerProps) {
+  return (
+    <div
+      className={`mx-auto w-full px-5 sm:px-8 md:px-12 lg:px-16 ${sizeClasses[size]} ${className}`}
+      {...props}
+    >
+      {children}
+    </div>
+  );
+}
+
+export default Container;

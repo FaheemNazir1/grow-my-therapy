@@ -1,0 +1,638 @@
+{
+  "paddingAndContainers": [
+    {
+      "sectionIdx": 1,
+      "sectionId": "670423e206da6c036366fd5f",
+      "sPadding": "115.297px 0px 0px 0px",
+      "cwPadding": "0px 0px 0px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 2,
+      "sectionId": "670423e206da6c036366fd62",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "100.8px 0px 100.8px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 3,
+      "sectionId": "670459993b2c8501ffcac2d5",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "95.04px 0px 95.04px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 4,
+      "sectionId": "6705712cbfc15638d2c66167",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "95.04px 0px 95.04px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 5,
+      "sectionId": "670423e206da6c036366fd65",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "115.2px 0px 115.2px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 6,
+      "sectionId": "67057567c1d4a434a3992873",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "0px 0px 0px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 7,
+      "sectionId": "670574db0996216c7acc68e1",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "95.04px 0px 95.04px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 8,
+      "sectionId": "670423e206da6c036366fd6b",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "0px 0px 0px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 9,
+      "sectionId": "670423e206da6c036366fd6e",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "95.04px 0px 95.04px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 10,
+      "sectionId": "670423e206da6c036366fd29",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "64.8px 0px 64.8px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    },
+    {
+      "sectionIdx": 11,
+      "sectionId": "6705850336a84f2ca2501714",
+      "sPadding": "0px 0px 0px 0px",
+      "cwPadding": "7.2px 0px 7.2px 0px",
+      "cwMaxWidth": "100%",
+      "cwWidth": 1440
+    }
+  ],
+  "heroCollage": {
+    "images": [
+      {
+        "alt": "family therapy",
+        "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/80513bd1-30ee-4a2d-aaf6-782d9be095ce/Jennifer+A+-+Images+%2866%29.jpg",
+        "rect": {
+          "top": 154,
+          "left": 0,
+          "width": 497,
+          "height": 572
+        },
+        "blockRect": {
+          "top": 154,
+          "left": 0,
+          "width": 497,
+          "height": 572
+        },
+        "computedStyles": {
+          "position": "absolute",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "alt": "child therapy",
+        "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/3643a7ac-ff62-4927-b96e-9e65ecff0521/Jennifer+A+-+Images+%2867%29.jpg",
+        "rect": {
+          "top": 348,
+          "left": 1325,
+          "width": 115,
+          "height": 378
+        },
+        "blockRect": {
+          "top": 348,
+          "left": 1325,
+          "width": 115,
+          "height": 378
+        },
+        "computedStyles": {
+          "position": "absolute",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        }
+      }
+    ],
+    "textRect": {
+      "top": 348,
+      "left": 617,
+      "width": 643,
+      "height": 300
+    },
+    "heroRect": {}
+  },
+  "section8Layout": {
+    "gridDisplay": "grid",
+    "gridTemplateColumns": "61px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 43.4531px 61px",
+    "gap": "11px",
+    "blocks": [
+      {
+        "title": "Trauma",
+        "text": "We don’t always know when and how we’ve experience",
+        "rect": {
+          "top": 5766,
+          "left": 562,
+          "width": 370,
+          "height": 261
+        }
+      },
+      {
+        "link": "LEARN MORE",
+        "rect": {
+          "top": 6038,
+          "left": 562,
+          "width": 370,
+          "height": 67
+        }
+      },
+      {
+        "title": "Dissociation",
+        "text": "The feeling of losing time, hearing conflicting vo",
+        "rect": {
+          "top": 6194,
+          "left": 562,
+          "width": 370,
+          "height": 261
+        }
+      },
+      {
+        "link": "LEARN MORE",
+        "rect": {
+          "top": 6466,
+          "left": 562,
+          "width": 370,
+          "height": 67
+        }
+      },
+      {
+        "title": "EMDR",
+        "text": "Eye Movement Desensitization and Reprocessing (EMD",
+        "rect": {
+          "top": 5766,
+          "left": 998,
+          "width": 370,
+          "height": 261
+        }
+      },
+      {
+        "link": "LEARN MORE",
+        "rect": {
+          "top": 6038,
+          "left": 998,
+          "width": 370,
+          "height": 67
+        }
+      },
+      {
+        "title": "Special Needs Parenting",
+        "text": "Parenting a child with special needs presents uniq",
+        "rect": {
+          "top": 6194,
+          "left": 998,
+          "width": 370,
+          "height": 261
+        }
+      },
+      {
+        "link": "LEARN MORE",
+        "rect": {
+          "top": 6466,
+          "left": 998,
+          "width": 370,
+          "height": 67
+        }
+      }
+    ]
+  },
+  "navDetails": {
+    "headerPadding": "0px",
+    "headerHeight": 115,
+    "navItems": [
+      {
+        "label": "ABOUT",
+        "href": "/therapists-newbury-park",
+        "hasFolder": false,
+        "folderStyles": null,
+        "folderLinks": []
+      },
+      {
+        "label": "Jennifer Anderson, LMFT",
+        "href": "/jennifer-anderson",
+        "hasFolder": true,
+        "folderStyles": {
+          "position": "absolute",
+          "display": "none",
+          "bg": "rgb(246, 244, 238)",
+          "padding": "0px",
+          "boxShadow": "none"
+        },
+        "folderLinks": [
+          {
+            "text": "Jennifer Anderson, LMFT",
+            "href": "/jennifer-anderson"
+          },
+          {
+            "text": "Candace Bletscher, AMFT",
+            "href": "/candace-bletscher"
+          },
+          {
+            "text": "Heather Williams-Baumgart, AMFT",
+            "href": "/heather-williams-baumgart"
+          },
+          {
+            "text": "Samantha Johnson, AMFT",
+            "href": "/samantha-johnson"
+          },
+          {
+            "text": "Autumn Bodily, AMFT",
+            "href": "/autumn-bodily"
+          },
+          {
+            "text": "Rosa Gomez, AMFT",
+            "href": "/rosa-gomez"
+          },
+          {
+            "text": "Chad Flores, AMFT",
+            "href": "/chad-flores"
+          },
+          {
+            "text": "Simran Sidhu, AMFT",
+            "href": "/simran-sidhu"
+          },
+          {
+            "text": "Jessica Jauregui, MA, AMFT",
+            "href": "/jessica-jauregui"
+          }
+        ]
+      },
+      {
+        "label": "Dissociation",
+        "href": "/dissociative-identity-disorder-therapist-newbury-park",
+        "hasFolder": true,
+        "folderStyles": {
+          "position": "absolute",
+          "display": "none",
+          "bg": "rgb(246, 244, 238)",
+          "padding": "0px",
+          "boxShadow": "none"
+        },
+        "folderLinks": [
+          {
+            "text": "Dissociation",
+            "href": "/dissociative-identity-disorder-therapist-newbury-park"
+          },
+          {
+            "text": "Trauma",
+            "href": "/trauma-counseling-newbury-park"
+          },
+          {
+            "text": "Special Needs Parenting",
+            "href": "/counseling-special-needs-parents-newbury-park"
+          },
+          {
+            "text": "Couples",
+            "href": "/couples-therapy"
+          },
+          {
+            "text": "Children & Teens",
+            "href": "/children-and-teens"
+          },
+          {
+            "text": "Anxiety & Depression",
+            "href": "/anxiety-depression"
+          },
+          {
+            "text": "Adoption",
+            "href": "/adoption-therapy-ventura-county-ca"
+          }
+        ]
+      },
+      {
+        "label": "EMDR",
+        "href": "/emdr-therapy-newbury-park",
+        "hasFolder": true,
+        "folderStyles": {
+          "position": "absolute",
+          "display": "none",
+          "bg": "rgb(246, 244, 238)",
+          "padding": "0px",
+          "boxShadow": "none"
+        },
+        "folderLinks": [
+          {
+            "text": "EMDR",
+            "href": "/emdr-therapy-newbury-park"
+          },
+          {
+            "text": "Brainspotting",
+            "href": "/brainspotting"
+          },
+          {
+            "text": "Somatic Therapy",
+            "href": "/somatic-therapy"
+          },
+          {
+            "text": "Parts Work Therapy",
+            "href": "/parts-work-therapy"
+          }
+        ]
+      },
+      {
+        "label": "FAQS",
+        "href": "/faqs",
+        "hasFolder": false,
+        "folderStyles": null,
+        "folderLinks": []
+      },
+      {
+        "label": "About",
+        "href": "/therapists-newbury-park",
+        "hasFolder": false,
+        "folderStyles": null,
+        "folderLinks": []
+      },
+      {
+        "label": "Jennifer Anderson, LMFT",
+        "href": "/jennifer-anderson",
+        "hasFolder": true,
+        "folderStyles": {
+          "position": "absolute",
+          "display": "none",
+          "bg": "rgb(246, 244, 238)",
+          "padding": "0px",
+          "boxShadow": "none"
+        },
+        "folderLinks": [
+          {
+            "text": "Jennifer Anderson, LMFT",
+            "href": "/jennifer-anderson"
+          },
+          {
+            "text": "Candace Bletscher, AMFT",
+            "href": "/candace-bletscher"
+          },
+          {
+            "text": "Heather Williams-Baumgart, AMFT",
+            "href": "/heather-williams-baumgart"
+          },
+          {
+            "text": "Samantha Johnson, AMFT",
+            "href": "/samantha-johnson"
+          },
+          {
+            "text": "Autumn Bodily, AMFT",
+            "href": "/autumn-bodily"
+          },
+          {
+            "text": "Rosa Gomez, AMFT",
+            "href": "/rosa-gomez"
+          },
+          {
+            "text": "Chad Flores, AMFT",
+            "href": "/chad-flores"
+          },
+          {
+            "text": "Simran Sidhu, AMFT",
+            "href": "/simran-sidhu"
+          },
+          {
+            "text": "Jessica Jauregui, MA, AMFT",
+            "href": "/jessica-jauregui"
+          }
+        ]
+      },
+      {
+        "label": "Dissociation",
+        "href": "/dissociative-identity-disorder-therapist-newbury-park",
+        "hasFolder": true,
+        "folderStyles": {
+          "position": "absolute",
+          "display": "none",
+          "bg": "rgb(246, 244, 238)",
+          "padding": "0px",
+          "boxShadow": "none"
+        },
+        "folderLinks": [
+          {
+            "text": "Dissociation",
+            "href": "/dissociative-identity-disorder-therapist-newbury-park"
+          },
+          {
+            "text": "Trauma",
+            "href": "/trauma-counseling-newbury-park"
+          },
+          {
+            "text": "Special Needs Parenting",
+            "href": "/counseling-special-needs-parents-newbury-park"
+          },
+          {
+            "text": "Couples",
+            "href": "/couples-therapy"
+          },
+          {
+            "text": "Children & Teens",
+            "href": "/children-and-teens"
+          },
+          {
+            "text": "Anxiety & Depression",
+            "href": "/anxiety-depression"
+          },
+          {
+            "text": "Adoption",
+            "href": "/adoption-therapy-ventura-county-ca"
+          }
+        ]
+      },
+      {
+        "label": "EMDR",
+        "href": "/emdr-therapy-newbury-park",
+        "hasFolder": true,
+        "folderStyles": {
+          "position": "absolute",
+          "display": "none",
+          "bg": "rgb(246, 244, 238)",
+          "padding": "0px",
+          "boxShadow": "none"
+        },
+        "folderLinks": [
+          {
+            "text": "EMDR",
+            "href": "/emdr-therapy-newbury-park"
+          },
+          {
+            "text": "Brainspotting",
+            "href": "/brainspotting"
+          },
+          {
+            "text": "Somatic Therapy",
+            "href": "/somatic-therapy"
+          },
+          {
+            "text": "Parts Work Therapy",
+            "href": "/parts-work-therapy"
+          }
+        ]
+      },
+      {
+        "label": "FAQs",
+        "href": "/faqs",
+        "hasFolder": false,
+        "folderStyles": null,
+        "folderLinks": []
+      }
+    ]
+  },
+  "responsivePaddings": {
+    "390": [
+      {
+        "sectionIdx": 1,
+        "paddingTop": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 2,
+        "paddingTop": "56px",
+        "paddingBottom": "56px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 3,
+        "paddingTop": "52.8px",
+        "paddingBottom": "52.8px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 4,
+        "paddingTop": "52.8px",
+        "paddingBottom": "52.8px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 5,
+        "paddingTop": "64px",
+        "paddingBottom": "64px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 6,
+        "paddingTop": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 7,
+        "paddingTop": "52.8px",
+        "paddingBottom": "52.8px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 8,
+        "paddingTop": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 9,
+        "paddingTop": "52.8px",
+        "paddingBottom": "52.8px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      }
+    ],
+    "768": [
+      {
+        "sectionIdx": 1,
+        "paddingTop": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 2,
+        "paddingTop": "56px",
+        "paddingBottom": "56px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 3,
+        "paddingTop": "52.8px",
+        "paddingBottom": "52.8px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 4,
+        "paddingTop": "52.8px",
+        "paddingBottom": "52.8px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 5,
+        "paddingTop": "64px",
+        "paddingBottom": "64px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 6,
+        "paddingTop": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 7,
+        "paddingTop": "52.8px",
+        "paddingBottom": "52.8px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 8,
+        "paddingTop": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      {
+        "sectionIdx": 9,
+        "paddingTop": "52.8px",
+        "paddingBottom": "52.8px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      }
+    ]
+  }
+}

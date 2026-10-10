@@ -1,0 +1,615 @@
+{
+  "headerData": {
+    "tag": "header",
+    "logo": {
+      "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7116bf54-a0e1-4128-81d8-24fd9960c7ed/Conejo+Valley+Counseling+Logo.png?format=1500w",
+      "alt": "Conejo Valley Family Counseling",
+      "width": 257,
+      "height": 75
+    },
+    "navItems": [
+      {
+        "title": "ABOUT",
+        "href": "/therapists-newbury-park",
+        "folderItems": []
+      },
+      {
+        "title": "Jennifer Anderson, LMFT",
+        "href": "/jennifer-anderson",
+        "folderItems": [
+          {
+            "title": "Jennifer Anderson, LMFT",
+            "href": "/jennifer-anderson"
+          },
+          {
+            "title": "Candace Bletscher, AMFT",
+            "href": "/candace-bletscher"
+          },
+          {
+            "title": "Heather Williams-Baumgart, AMFT",
+            "href": "/heather-williams-baumgart"
+          },
+          {
+            "title": "Samantha Johnson, AMFT",
+            "href": "/samantha-johnson"
+          },
+          {
+            "title": "Autumn Bodily, AMFT",
+            "href": "/autumn-bodily"
+          },
+          {
+            "title": "Rosa Gomez, AMFT",
+            "href": "/rosa-gomez"
+          },
+          {
+            "title": "Chad Flores, AMFT",
+            "href": "/chad-flores"
+          },
+          {
+            "title": "Simran Sidhu, AMFT",
+            "href": "/simran-sidhu"
+          },
+          {
+            "title": "Jessica Jauregui, MA, AMFT",
+            "href": "/jessica-jauregui"
+          }
+        ]
+      },
+      {
+        "title": "Dissociation",
+        "href": "/dissociative-identity-disorder-therapist-newbury-park",
+        "folderItems": [
+          {
+            "title": "Dissociation",
+            "href": "/dissociative-identity-disorder-therapist-newbury-park"
+          },
+          {
+            "title": "Trauma",
+            "href": "/trauma-counseling-newbury-park"
+          },
+          {
+            "title": "Special Needs Parenting",
+            "href": "/counseling-special-needs-parents-newbury-park"
+          },
+          {
+            "title": "Couples",
+            "href": "/couples-therapy"
+          },
+          {
+            "title": "Children & Teens",
+            "href": "/children-and-teens"
+          },
+          {
+            "title": "Anxiety & Depression",
+            "href": "/anxiety-depression"
+          },
+          {
+            "title": "Adoption",
+            "href": "/adoption-therapy-ventura-county-ca"
+          }
+        ]
+      },
+      {
+        "title": "EMDR",
+        "href": "/emdr-therapy-newbury-park",
+        "folderItems": [
+          {
+            "title": "EMDR",
+            "href": "/emdr-therapy-newbury-park"
+          },
+          {
+            "title": "Brainspotting",
+            "href": "/brainspotting"
+          },
+          {
+            "title": "Somatic Therapy",
+            "href": "/somatic-therapy"
+          },
+          {
+            "title": "Parts Work Therapy",
+            "href": "/parts-work-therapy"
+          }
+        ]
+      },
+      {
+        "title": "FAQS",
+        "href": "/faqs",
+        "folderItems": []
+      },
+      {
+        "title": "About",
+        "href": "/therapists-newbury-park",
+        "folderItems": []
+      },
+      {
+        "title": "Jennifer Anderson, LMFT",
+        "href": "/jennifer-anderson",
+        "folderItems": [
+          {
+            "title": "Jennifer Anderson, LMFT",
+            "href": "/jennifer-anderson"
+          },
+          {
+            "title": "Candace Bletscher, AMFT",
+            "href": "/candace-bletscher"
+          },
+          {
+            "title": "Heather Williams-Baumgart, AMFT",
+            "href": "/heather-williams-baumgart"
+          },
+          {
+            "title": "Samantha Johnson, AMFT",
+            "href": "/samantha-johnson"
+          },
+          {
+            "title": "Autumn Bodily, AMFT",
+            "href": "/autumn-bodily"
+          },
+          {
+            "title": "Rosa Gomez, AMFT",
+            "href": "/rosa-gomez"
+          },
+          {
+            "title": "Chad Flores, AMFT",
+            "href": "/chad-flores"
+          },
+          {
+            "title": "Simran Sidhu, AMFT",
+            "href": "/simran-sidhu"
+          },
+          {
+            "title": "Jessica Jauregui, MA, AMFT",
+            "href": "/jessica-jauregui"
+          }
+        ]
+      },
+      {
+        "title": "Dissociation",
+        "href": "/dissociative-identity-disorder-therapist-newbury-park",
+        "folderItems": [
+          {
+            "title": "Dissociation",
+            "href": "/dissociative-identity-disorder-therapist-newbury-park"
+          },
+          {
+            "title": "Trauma",
+            "href": "/trauma-counseling-newbury-park"
+          },
+          {
+            "title": "Special Needs Parenting",
+            "href": "/counseling-special-needs-parents-newbury-park"
+          },
+          {
+            "title": "Couples",
+            "href": "/couples-therapy"
+          },
+          {
+            "title": "Children & Teens",
+            "href": "/children-and-teens"
+          },
+          {
+            "title": "Anxiety & Depression",
+            "href": "/anxiety-depression"
+          },
+          {
+            "title": "Adoption",
+            "href": "/adoption-therapy-ventura-county-ca"
+          }
+        ]
+      },
+      {
+        "title": "EMDR",
+        "href": "/emdr-therapy-newbury-park",
+        "folderItems": [
+          {
+            "title": "EMDR",
+            "href": "/emdr-therapy-newbury-park"
+          },
+          {
+            "title": "Brainspotting",
+            "href": "/brainspotting"
+          },
+          {
+            "title": "Somatic Therapy",
+            "href": "/somatic-therapy"
+          },
+          {
+            "title": "Parts Work Therapy",
+            "href": "/parts-work-therapy"
+          }
+        ]
+      },
+      {
+        "title": "FAQs",
+        "href": "/faqs",
+        "folderItems": []
+      }
+    ],
+    "ctaButton": {
+      "text": "CONTACT",
+      "href": "/contact",
+      "style": "rgba(0, 0, 0, 0)"
+    }
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "sectionId": "670423e206da6c036366fd5f",
+      "theme": "light",
+      "bgColor": "rgb(246, 244, 238)",
+      "bgImage": null,
+      "padding": "0px 0px 0px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "29px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 29px",
+      "blocksCount": 5,
+      "buttons": [
+        {
+          "text": "BOOK AN APPOINTMENT",
+          "href": "/contact",
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(43, 43, 43)",
+          "font": "Muli 12.75px 400",
+          "padding": "9px 0px 9px 0px",
+          "borderRadius": "0px",
+          "border": "0px none none solid rgb(43, 43, 43)"
+        }
+      ],
+      "images": [
+        {
+          "alt": "family therapy",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/80513bd1-30ee-4a2d-aaf6-782d9be095ce/Jennifer+A+-+Images+%2866%29.jpg",
+          "naturalWidth": 800,
+          "naturalHeight": 730,
+          "width": 272.671875,
+          "height": 539.3125,
+          "aspectRatio": "0.51",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        },
+        {
+          "alt": "child therapy",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/3643a7ac-ff62-4927-b96e-9e65ecff0521/Jennifer+A+-+Images+%2867%29.jpg",
+          "naturalWidth": 800,
+          "naturalHeight": 730,
+          "width": 59.453125,
+          "height": 340.90625,
+          "aspectRatio": "0.17",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        }
+      ],
+      "fullText": "ONLINE & IN-PERSON COUNSELING IN NEWBURY PARK & ACROSS CA\n\nRebuild your foundation on solid ground and finally begin to  thrive. \n\nSpecialized therapy for adults, couples, teens, and children to reflect, heal, and grow.\n\nBOOK AN APPOINTMENT"
+    },
+    {
+      "sectionIndex": 2,
+      "sectionId": "670423e206da6c036366fd62",
+      "theme": "light",
+      "bgColor": "rgb(246, 244, 238)",
+      "bgImage": null,
+      "padding": "56px 0px 56px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "20px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 20px",
+      "blocksCount": 4,
+      "buttons": [],
+      "images": [
+        {
+          "alt": "Sandy beach with gentle ocean waves and a cloudy sky.",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7a40691c-70a5-4307-b9ae-974592087a8f/Jennifer+A+-+Images+%283%29.jpg",
+          "naturalWidth": 800,
+          "naturalHeight": 1182,
+          "width": 235.84375,
+          "height": 738.421875,
+          "aspectRatio": "0.32",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        }
+      ],
+      "fullText": "You’re holding onto hope that life can be better than it is right now.\n\nAT CONEJO VALLEY FAMILY COUNSELING WE WANT TO MAKE THAT HOPE A REALITY. \n\nWhether you're an adult seeking personal growth,  looking to work through your trauma, a couple working on your relationship, or a parent looking for support for your child, we provide a compassionate and safe space to help you navigate all of life’s ups and downs. \n\nFirst and foremost, we believe what you’re going through is real, valid, and worthy of support. Our team offers clients in the Newbury Park area and across CA an environment to discover a new life and a deeper sense of self in the midst of their struggles. As we tap into the power of connection and understanding, you can find your footing again and take a transformative path forward."
+    },
+    {
+      "sectionIndex": 3,
+      "sectionId": "670459993b2c8501ffcac2d5",
+      "theme": "white",
+      "bgColor": "rgb(255, 255, 255)",
+      "bgImage": null,
+      "padding": "52.8px 0px 52.8px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "20px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 20px",
+      "blocksCount": 7,
+      "buttons": [],
+      "images": [
+        {
+          "alt": "Two people sitting on a log at the beach, facing a lake with mountains in the background.",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/066f60e6-1354-4d47-a586-ab3f2f2ba612/Jennifer+A+-+Images+%288%29.jpg",
+          "naturalWidth": 196,
+          "naturalHeight": 289,
+          "width": 195.8125,
+          "height": 280.15625,
+          "aspectRatio": "0.70",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        },
+        {
+          "alt": "A couple embracing on the beach, with both wearing casual summer clothing and smiling at each other. The ocean is in the background.",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d0157712-388c-4800-aada-c78db97ee966/Jennifer+A+-+Images+%289%29.jpg",
+          "naturalWidth": 196,
+          "naturalHeight": 289,
+          "width": 195.84375,
+          "height": 280.15625,
+          "aspectRatio": "0.70",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        },
+        {
+          "alt": "A boy carrying a girl on a beach with waves in the background.",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d5d62bf4-34a7-4bf4-bf00-e1169863ace7/Jennifer+A+-+Images+%2810%29.jpg",
+          "naturalWidth": 196,
+          "naturalHeight": 298,
+          "width": 195.84375,
+          "height": 280.15625,
+          "aspectRatio": "0.70",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        }
+      ],
+      "fullText": "Who we  help\nAdults\n\nFeeling stuck or overwhelmed? We help adults find clarity, build resilience, and move forward with confidence by addressing the root causes of anxiety, stress, and emotional pain.\n\nCouples\n\nRelationships require effort, and we’re here to help you strengthen yours. We guide couples through challenges like communication breakdowns and trust issues, helping you rebuild intimacy and strengthen your relationship.\n\nChildren & Teens\n\nKids need support, too. We help them process big emotions, cope with challenging family situations, build coping skills, and feel understood, while also working closely with their parents to create a nurturing environment."
+    },
+    {
+      "sectionIndex": 4,
+      "sectionId": "6705712cbfc15638d2c66167",
+      "theme": "black",
+      "bgColor": "rgb(43, 43, 43)",
+      "bgImage": null,
+      "padding": "52.8px 0px 52.8px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "29px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 29px",
+      "blocksCount": 1,
+      "buttons": [],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/27b4f80c-ca73-4d1f-824e-ec29a2211142/Jennifer+A+-+Images+%282%29.png",
+          "naturalWidth": 0,
+          "naturalHeight": 0,
+          "width": 800,
+          "height": 396,
+          "aspectRatio": "2.02",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        }
+      ],
+      "fullText": "You deserve a place where your story is heard, valued, and understood. Nothing will be too heavy for us to carry together."
+    },
+    {
+      "sectionIndex": 5,
+      "sectionId": "670423e206da6c036366fd65",
+      "theme": "white",
+      "bgColor": "rgb(255, 255, 255)",
+      "bgImage": null,
+      "padding": "64px 0px 64px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "29px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 29px",
+      "blocksCount": 23,
+      "buttons": [],
+      "images": [],
+      "fullText": "Our areas of expertise\n\nDISSOCIATION\n\nTRAUMA\n\nFAMILY CONFLICT\n\nSPECIAL NEEDS PARENTING\n\nDEPRESSION\n\nMARRIAGE\n\nANXIETY\n\nRELATIONSHIPS\n\nCHILDREN\n\nTEENS\n\nINTIMACY & CONNECTION\n\n…AND MORE."
+    },
+    {
+      "sectionIndex": 6,
+      "sectionId": "67057567c1d4a434a3992873",
+      "theme": "bright",
+      "bgColor": "rgb(227, 217, 202)",
+      "bgImage": null,
+      "padding": "0px 0px 0px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "20px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 10.8281px 20px",
+      "blocksCount": 6,
+      "buttons": [
+        {
+          "text": "LEARN MORE ABOUT US",
+          "href": "/therapists-newbury-park",
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "font": "Muli 12.75px 400",
+          "padding": "9px 0px 9px 0px",
+          "borderRadius": "0px",
+          "border": "0px none none solid rgb(0, 0, 0)"
+        }
+      ],
+      "images": [
+        {
+          "alt": "A woman and a child in white dresses dancing on a sandy beach with tall grasses and a distant building in the background during sunset.",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/389808ad-7273-4e03-a32b-c172aa735f12/Jennifer+A+-+Images+%286%29.jpg",
+          "naturalWidth": 0,
+          "naturalHeight": 0,
+          "width": 174.171875,
+          "height": 789.828125,
+          "aspectRatio": "0.22",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        }
+      ],
+      "fullText": "HOW WE WORK\n\nWe’re here to make a difference.\n\nTHE CLIENTS WE WORK WITH ARE BALANCING SO MANY THINGS AT ONCE, IT’S OFTEN HARD FOR THEM TO PUT THEMSELVES FIRST.\n\n Here, your needs are always top priority. Our team takes the time to deeply listen to our clients in order to truly understand their story and their struggles. We recognize that no two people are the same and that personalized therapy means an intentional, tailored approach. (You won’t find anything “one-size-fits-all” here.) If you’re ready to do the work, we’re ready to help.\n\nSometimes we may gently challenge you to look at things differently and other times we may explore your emotions, all while encouraging you to practice what you’ve learned in your daily life. We take what we do seriously because we know how important it is for you to heal from what’s hurting you, discover a fulfilling life, and build meaningful relationships. Our goal is to walk alongside you in this journey, offering support and guidance as you uncover your strengths and embrace what the future can hold for you.\n\nLEARN MORE ABOUT US"
+    },
+    {
+      "sectionIndex": 7,
+      "sectionId": "670574db0996216c7acc68e1",
+      "theme": "white",
+      "bgColor": "rgb(255, 255, 255)",
+      "bgImage": null,
+      "padding": "52.8px 0px 52.8px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "29px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 29px",
+      "blocksCount": 2,
+      "buttons": [],
+      "images": [
+        {
+          "alt": "Family of four standing on a beach, holding hands, facing the ocean at sunset.",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/6f1501bf-74a5-4c57-a957-8ce4c5876848/Jennifer+A+-+Images+%285%29.jpg",
+          "naturalWidth": 0,
+          "naturalHeight": 0,
+          "width": 424.96875,
+          "height": 383.75,
+          "aspectRatio": "1.11",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        }
+      ],
+      "fullText": "Honoring where you’ve been & helping shape where you’re headed."
+    },
+    {
+      "sectionIndex": 8,
+      "sectionId": "670423e206da6c036366fd6b",
+      "theme": "white",
+      "bgColor": "rgb(255, 255, 255)",
+      "bgImage": null,
+      "padding": "0px 0px 0px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "29px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 29px",
+      "blocksCount": 9,
+      "buttons": [
+        {
+          "text": "LEARN MORE",
+          "href": "/trauma-counseling-newbury-park",
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(43, 43, 43)",
+          "font": "Muli 12.75px 400",
+          "padding": "9px 0px 9px 0px",
+          "borderRadius": "0px",
+          "border": "0px none none solid rgb(43, 43, 43)"
+        },
+        {
+          "text": "LEARN MORE",
+          "href": "/dissociative-identity-disorder-therapist-newbury-park",
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(43, 43, 43)",
+          "font": "Muli 12.75px 400",
+          "padding": "9px 0px 9px 0px",
+          "borderRadius": "0px",
+          "border": "0px none none solid rgb(43, 43, 43)"
+        },
+        {
+          "text": "LEARN MORE",
+          "href": "/emdr-therapy-newbury-park",
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(43, 43, 43)",
+          "font": "Muli 12.75px 400",
+          "padding": "9px 0px 9px 0px",
+          "borderRadius": "0px",
+          "border": "0px none none solid rgb(43, 43, 43)"
+        },
+        {
+          "text": "LEARN MORE",
+          "href": "/counseling-special-needs-parents-newbury-park",
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(43, 43, 43)",
+          "font": "Muli 12.75px 400",
+          "padding": "9px 0px 9px 0px",
+          "borderRadius": "0px",
+          "border": "0px none none solid rgb(43, 43, 43)"
+        }
+      ],
+      "images": [],
+      "fullText": "Our  specialties include…\nTrauma\n\nWe don’t always know when and how we’ve experienced trauma. In therapy, we’ll work together to help you process your past, understand what’s causing you to stay “stuck,” and regain a sense of safety, control, and hope. You don’t have to carry your burdens alone.\n\nLEARN MORE\nDissociation\n\nThe feeling of losing time, hearing conflicting voices, or questioning your sense of self can be overwhelming. In therapy, we’ll help you understand these experiences, recognize your own triggers, and create a sense of balance and identity so that you can feel more grounded.\n\nLEARN MORE\nEMDR\n\nEye Movement Desensitization and Reprocessing (EMDR) is a powerful therapeutic technique that helps process and heal trauma by reworking how painful memories are stored in your brain. This allows you to find relief and move toward lasting healing.\n\nLEARN MORE\nSpecial Needs Parenting\n\nParenting a child with special needs presents unique challenges and complex emotions. We provide compassionate support through lived experience and expertise to help you navigate this journey with tools, understanding, and self-care.\n\nLEARN MORE"
+    },
+    {
+      "sectionIndex": 9,
+      "sectionId": "670423e206da6c036366fd6e",
+      "theme": "light",
+      "bgColor": "rgb(246, 244, 238)",
+      "bgImage": null,
+      "padding": "52.8px 0px 52.8px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "29px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 29px",
+      "blocksCount": 6,
+      "buttons": [
+        {
+          "text": "BOOK NOW",
+          "href": "/contact",
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(43, 43, 43)",
+          "font": "Muli 12.75px 400",
+          "padding": "15px 19.5px 15px 19.5px",
+          "borderRadius": "100%",
+          "border": "1px solid rgb(43, 43, 43)"
+        }
+      ],
+      "images": [
+        {
+          "alt": "A person picking up seashells on a sandy beach.",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/1b9495e0-ce39-4826-9df9-e24de99da82f/Jennifer+A+-+Images+%2812%29.jpg",
+          "naturalWidth": 0,
+          "naturalHeight": 0,
+          "width": 89.90625,
+          "height": 582.15625,
+          "aspectRatio": "0.15",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        },
+        {
+          "alt": "A person in a striped dress pointing at shells on the sandy beach, with a child in blue shorts standing barefoot nearby.",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7557312a-044d-4489-a9d1-6f43ee9888b1/Jennifer+A+-+Images+%2811%29.jpg",
+          "naturalWidth": 0,
+          "naturalHeight": 0,
+          "width": 272.671875,
+          "height": 661.5625,
+          "aspectRatio": "0.41",
+          "objectFit": "cover",
+          "borderRadius": "0px"
+        }
+      ],
+      "fullText": "SCHEDULE AN APPOINTMENT \n\nFind a therapist who is the right fit for  you.\n\nComing to therapy is a courageous decision, and connecting with the right kind of therapist makes all the difference. We understand that your journey is personal, and we're here to support you with care and understanding every step of the way. Each member of our team brings dedicated expertise and a commitment to support you in your struggles. We want you to feel prioritized, understood, and empowered.\n\nClick the button below to schedule an appointment.\n\nBOOK NOW"
+    },
+    {
+      "sectionIndex": 10,
+      "sectionId": "670423e206da6c036366fd29",
+      "theme": "white",
+      "bgColor": "rgb(255, 255, 255)",
+      "bgImage": null,
+      "padding": "36px 0px 36px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "29px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 29px",
+      "blocksCount": 5,
+      "buttons": [],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7116bf54-a0e1-4128-81d8-24fd9960c7ed/Conejo+Valley+Counseling+Logo.png",
+          "naturalWidth": 202,
+          "naturalHeight": 58,
+          "width": 202.21875,
+          "height": 58.96875,
+          "aspectRatio": "3.43",
+          "objectFit": "contain",
+          "borderRadius": "0px"
+        }
+      ],
+      "fullText": "We want to make getting started simple. You’re welcome to come into our office in Newbury Park or schedule virtual appointments from anywhere in CA—whatever works best for you. \n\nNAVIGATE\n\nHome\nAbout\nFAQs\nContact\n\nCONTACT\n\n925 Broadbeck Dr \nSuites 200 and 225 \nNewbury Park, CA 91320\ninfo@conejovalleycounseling.com\n805.242.3120\n\nServing Thousand Oaks, Westlake Village, Camarillo, Moorpark, & Simi Valley\n\nOUR TEAM\n\nJennifer Anderson\nHeather Williams-Baumgart\nAutumn Bodily\nCandace Bletscher\nSamantha Johnson\nRosa Gomez\nChad Flores\nSimran Sidhu\nJessica Jauregui"
+    },
+    {
+      "sectionIndex": 11,
+      "sectionId": "6705850336a84f2ca2501714",
+      "theme": "dark",
+      "bgColor": "rgb(134, 179, 179)",
+      "bgImage": null,
+      "padding": "4px 0px 4px 0px",
+      "maxWidth": "100%",
+      "display": "grid",
+      "gridTemplateColumns": "29px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 19.4531px 29px",
+      "blocksCount": 1,
+      "buttons": [],
+      "images": [],
+      "fullText": "Terms | Privacy Policy | Disclaimer | Website by Walker Strategy Co."
+    }
+  ]
+}
